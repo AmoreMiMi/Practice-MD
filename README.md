@@ -48,3 +48,24 @@ It is recommended to use active voice, make the steps short, to the point and us
 | [![link to image](https://f1.madcapsoftware.com/blogImages/2023/06/photo-instruction-for-use-sample.png?scale.option=fill&w=800&h=0)](https://google.com) |
 |:--:| 
 | Credit image: Top Nav | LiCOR Technical Support Center | LI-600 Porometer/Fluorometer |
+
+# Styling & Font
+
+IFUs should be written in sans-serif style fonts such as Verdana and Arial. The font size should be no smaller than 10pt. The only exceptions are:
+* Name and place of business of the manufacture, packer, or distributor
+* Verbatim statement: This “Instructions for Use” has been approved by the U.S. Food and Drug Administration
+* Date of approval or revision of the IFU by the FDA.
+
+In these cases, 8pt font or more sufficed.
+Other items to consider: 
+1. Instructions for use should appear in all uppercase letters and in bold.
+2. Product title, Headings, Step numbers and Figure titles should appear in bold.
+
+For more guidance on drafting an IFU refer to [Instructions for Use - Patient Labeling for Human Prescription Drug and Biological Products and Drug-Device and Biological-Device Combination - Content and Format](https://google.com) which is available online.
+
+# Responsibilities and Liabilities 
+Manufactures can be held liable for injuries caused by unsafe use of the product due to unclear or misleading instructions to include using erroneous information in translations. To be successful in today’s world, organizations need to create online help documentation to help answer the questions that clients have.
+
+Whether it is instructions for assembling furniture or medical devices and equipment for use by medical professionals, keeping users safe is a top priority. Don't be afraid to sound the alarm when necessary. Warn users about potential hazards and provide clear indications of how to navigate dangerous waters. Whether it's working with chemicals, handling medical equipment, or operating complex machinery, prioritize safety above all. Remember, a single adverse event can be a showstopper, so play it safe and always include comprehensive safety information. 
+
+![https://f1.madcapsoftware.com/blogImages/2023/06/photo-blood-pressure-measurement.png?scale.option=fill&w=800&h=0]
