@@ -19,6 +19,8 @@ Companies that do not provide IFUs with the product must be able to answer any q
 
 __Note:__ if hard copies of the IFU are not available, the manufacturer must provide it in electronic form
 
+***
+
 # Compromising an IFU
 
 All IFUs need to be in a clear, step-by-step instructional hierarchy with headings and subheadings. Chapters, procedural steps, troubleshooting sections, and a glossary add depth and clarity to your composition. Remember, the structure you choose should match the content and the preferences of your user base. Here is an example of how the information should be presented in the following order: 
@@ -49,6 +51,8 @@ It is recommended to use active voice, make the steps short, to the point and us
 |:--:| 
 | Credit image: Top Nav | LiCOR Technical Support Center | LI-600 Porometer/Fluorometer |
 
+***
+
 # Styling & Font
 
 IFUs should be written in sans-serif style fonts such as Verdana and Arial. The font size should be no smaller than 10pt. The only exceptions are:
@@ -71,3 +75,22 @@ Whether it is instructions for assembling furniture or medical devices and equip
 | [![](https://f1.madcapsoftware.com/blogImages/2023/06/photo-blood-pressure-measurement.png?scale.option=fill&w=800&h=0)](https://google.com) |
 |:--:|
 | Credit image: Top Nav |
+
+***
+
+# Proofing, Editing and Continuous improvement
+After writing your content, take a breather, and then proofread. Hunt down any typos, eliminate confusing sentences or phrases, and fine-tune your wording. A polished and error-free instruction manual will leave a lasting impression on your users.
+
+If possible, encourage users' feedback. Embrace constructive criticism and use it to refine your content. By listening to your audience, you'll stay in tune with their needs and maintain a solid reputation in your industry. 
+
+***
+
+# Differences Between a User Manual and IFU
+The difference between a user manual and an IFU is that the user manual is a comprehensive reference on how to operate and maintain a product. On the other hand, user manuals may provide design theory and include information found in separate guides and instructions.  
+
+As mentioned above, an IFU is a procedure used to accomplish a specific task. These instructions can be contained in a user manual or as a standalone document. A notable example is the user manual is used to operate a medical device, while an IFU focuses on performing tasks on said medical device.  
+
+***
+
+## Summary
+As a writer, we may be asked to create an IFU if supporting the health industry. These instructions are vital not only to the manufacture’s products but also to our lives. When you have a second just look at any prescription drug, vitamins, blood pressure kit, etc. The directions are IFUs which may save a life and prevent injury to include death.  
