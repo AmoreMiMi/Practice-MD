@@ -68,4 +68,4 @@ Manufactures can be held liable for injuries caused by unsafe use of the product
 
 Whether it is instructions for assembling furniture or medical devices and equipment for use by medical professionals, keeping users safe is a top priority. Don't be afraid to sound the alarm when necessary. Warn users about potential hazards and provide clear indications of how to navigate dangerous waters. Whether it's working with chemicals, handling medical equipment, or operating complex machinery, prioritize safety above all. Remember, a single adverse event can be a showstopper, so play it safe and always include comprehensive safety information. 
 
-![https://f1.madcapsoftware.com/blogImages/2023/06/photo-blood-pressure-measurement.png?scale.option=fill&w=800&h=0]
+!(https://f1.madcapsoftware.com/blogImages/2023/06/photo-blood-pressure-measurement.png?scale.option=fill&w=800&h=0)
