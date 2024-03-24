@@ -46,6 +46,5 @@ All IFUs need to be in a clear, step-by-step instructional hierarchy with headin
 It is recommended to use active voice, make the steps short, to the point and use images to illustrate each step. When it comes to crafting instructions, embracing human factors is crucial. Just like choosing the right chew toy for a puppy, understanding your audience is key. Take a moment to get into your users' heads and identify their needs, preferences, and language requirements. Tailor your instructions to their unique characteristics.
 
 [![link to image](https://f1.madcapsoftware.com/blogImages/2023/06/photo-instruction-for-use-sample.png?scale.option=fill&w=800&h=0)](https://google.com)
-
-![](path_to_image)
 *image_caption*
+
