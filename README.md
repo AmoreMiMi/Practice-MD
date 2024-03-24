@@ -47,4 +47,4 @@ It is recommended to use active voice, make the steps short, to the point and us
 
 | [![link to image](https://f1.madcapsoftware.com/blogImages/2023/06/photo-instruction-for-use-sample.png?scale.option=fill&w=800&h=0)](https://google.com) |
 |:--:| 
-| *Credit image: Top Nav | LiCOR Technical Support Center | LI-600 Porometer/Fluorometer* |
+| Credit image: Top Nav | LiCOR Technical Support Center | LI-600 Porometer/Fluorometer |
