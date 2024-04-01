@@ -1,4 +1,4 @@
-# What is an Instruction of Use
+# What is an Instruction of Use 
 
 Instructions for Use or IFUs is information provided by the manufacturer to inform the user of a device’s intended purpose, proper use, and any precautions. IFUs are used mainly in the medical field, specifically for prescription drugs and medical devices.  
 
