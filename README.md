@@ -88,8 +88,6 @@ If possible, encourage users' feedback. Embrace constructive criticism and use i
 # Differences Between a User Manual and IFU
 The difference between a user manual and an IFU is that the user manual is a comprehensive reference on how to operate and maintain a product. On the other hand, user manuals may provide design theory and include information found in separate guides and instructions.  
 
-As mentioned above, an IFU is a procedure used to accomplish a specific task. These instructions can be contained in a user manual or as a standalone document. A notable example is the user manual is used to operate a medical device, while an IFU focuses on performing tasks on said medical device.  
-
 ***
 
 ## Summary
