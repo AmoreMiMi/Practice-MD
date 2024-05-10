@@ -90,5 +90,23 @@ The difference between a user manual and an IFU is that the user manual is a com
 
 ***
 
+# The inner lives of cats: what our feline friends really think about hugs, happiness and humans
+
+They do what they want, all the time – and can teach us a lot about how to live in the present, be content and learn from our experience
+
+![Link to Image](https://i.guim.co.uk/img/media/c5e73ed8e8325d7e79babf8f1ebbd9adc0d95409/2_5_1754_1053/master/1754.jpg?width=620&dpr=1&s=none)
+
+# Iwanted to know the exact amount of time I spend ruminating on the inner lives of my cats, so I did what most people do in times of doubt, and consulted Google. According to my search history, in the two years since I became a cat owner I have Googled variations of “cat love me – how do I tell?” and “is my cat happy” 17 times. I have also inadvertently subscribed to cat-related updates from the knowledge website Quora, which emails me a daily digest. (Sample: Can Cats Be Angry or Disappointed With Their Owner?)
+
+How do I love my cats? Let me count the ways. The clean snap of three-year-old Larry’s jaw as he contemplates me with detached curiosity is my favourite sound in the world. I love the tenor and cadence of my six-month-old kitten Kedi’s miaows as he follows me around the house. (High-pitched indignant squeaks means he wants food; lower-pitched chirrups suggest he would like to play.) I love the weight of Larry on my feet at night and the scratchy caress of Kedi’s tongue on my eyelid in the morning.
+
+But how do I know what these little tykes really think and feel? I fear the authors of online listicles written in cursive fonts are unlikely to provide me with the latest scientific research – and are probably just saying what they think I want to hear. To truly journey into the feline soul, I will have to go to the fountainhead.
+
+| [![link to image](https://i.guim.co.uk/img/media/9c44e0547f98f21fce0e7c24fe2da1f1a0414ee4/0_402_5778_3468/master/5778.jpg?width=620&dpr=1&s=none)](https://google.com) |
+|:--:|
+| You don’t need to understand the ways of a cat to worship it … Sirin Kale and her cat Larry. Photograph: Linda Nylind/The Guardian |
+
+***
+
 ## Summary
 As a writer, we may be asked to create an IFU if supporting the health industry. These instructions are vital not only to the manufacture’s products but also to our lives. When you have a second just look at any prescription drug, vitamins, blood pressure kit, etc. The directions are IFUs which may save a life and prevent injury to include death.  
