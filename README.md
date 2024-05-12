@@ -108,7 +108,7 @@ But how do I know what these little tykes really think and feel? I fear the auth
 
 [![link to image](https://i.guim.co.uk/img/media/9c44e0547f98f21fce0e7c24fe2da1f1a0414ee4/0_402_5778_3468/master/5778.jpg?width=620&dpr=1&s=none)](https://google.com)
 
-[link to image](https://i.guim.co.uk/img/media/9c44e0547f98f21fce0e7c24fe2da1f1a0414ee4/0_402_5778_3468/master/5778.jpg?width=620&dpr=1&s=none)
+![link to image](https://i.guim.co.uk/img/media/9c44e0547f98f21fce0e7c24fe2da1f1a0414ee4/0_402_5778_3468/master/5778.jpg?width=620&dpr=1&s=none)
 
 ***
 
